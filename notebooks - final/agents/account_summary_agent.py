@@ -42,13 +42,18 @@ class AccountSummaryAgent:
             str: Generated account summary with analysis and recommendations
         """
         
+        if health_score is not None:
+            health_score_str = f"{health_score:.2f}"
+        else:
+            health_score_str = "Not available"
+        
         prompt = f"""
 You are an expert CRM account analyst.
 
 You will be given structured account data and a predictive health score.
 Return a concise, executive-level account summary.
 
-Account Health Score: {health_score:.2f if health_score else 'Not available'}
+Account Health Score: {health_score_str}
 
 Account Data (JSON):
 {json.dumps(account_data, indent=2)}
