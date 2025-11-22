@@ -1,0 +1,38 @@
+============================================
+11-21-2025| 08:10 PM | ERROR:
+============================================
+Email type: introduction
+🔍 Drafting email for: doncon
+Opportunity found: gtx_plus_pro
+Generating introduction email...
+Email generated successfully!
+Traceback (most recent call last):
+  File "/Users/nissiotoo/Library/Python/3.9/lib/python/site-packages/gradio/queueing.py", line 536, in process_events
+    response = await route_utils.call_process_api(
+  File "/Users/nissiotoo/Library/Python/3.9/lib/python/site-packages/gradio/route_utils.py", line 322, in call_process_api
+    output = await app.get_blocks().process_api(
+  File "/Users/nissiotoo/Library/Python/3.9/lib/python/site-packages/gradio/blocks.py", line 1935, in process_api
+    result = await self.call_function(
+  File "/Users/nissiotoo/Library/Python/3.9/lib/python/site-packages/gradio/blocks.py", line 1520, in call_function
+    prediction = await anyio.to_thread.run_sync(  # type: ignore
+  File "/Users/nissiotoo/Library/Python/3.9/lib/python/site-packages/anyio/to_thread.py", line 56, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+  File "/Users/nissiotoo/Library/Python/3.9/lib/python/site-packages/anyio/_backends/_asyncio.py", line 2485, in run_sync_in_worker_thread
+    return await future
+  File "/Users/nissiotoo/Library/Python/3.9/lib/python/site-packages/anyio/_backends/_asyncio.py", line 976, in run
+    result = context.run(func, *args)
+  File "/Users/nissiotoo/Library/Python/3.9/lib/python/site-packages/gradio/utils.py", line 826, in wrapper
+    response = f(*args, **kwargs)
+  File "/var/folders/nl/6y23jbvx6976ljxjh0vqgr7w0000gn/T/ipykernel_91499/3179005335.py", line 10, in crm_chatbot_wrapper
+    return crm_chatbot(user_query, account_filter, agent_filter, timeframe_filter)
+  File "/var/folders/nl/6y23jbvx6976ljxjh0vqgr7w0000gn/T/ipykernel_91499/1636109530.py", line 13, in crm_chatbot
+    chart = generate_chart(
+  File "/var/folders/nl/6y23jbvx6976ljxjh0vqgr7w0000gn/T/ipykernel_91499/4103785288.py", line 14, in generate_chart
+    summary.plot(kind="bar", ax=ax)
+  File "/Users/nissiotoo/Library/Python/3.9/lib/python/site-packages/pandas/plotting/_core.py", line 1030, in __call__
+    return plot_backend.plot(data, kind=kind, **kwargs)
+...
+    self._post_plot_logic(ax, self.data)
+  File "/Users/nissiotoo/Library/Python/3.9/lib/python/site-packages/pandas/plotting/_matplotlib/core.py", line 1972, in _post_plot_logic
+    s_edge = self.ax_pos[0] - 0.25 + self.lim_offset
+IndexError: index 0 is out of bounds for axis 0 with size 0
