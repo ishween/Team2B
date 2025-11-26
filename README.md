@@ -135,7 +135,6 @@ The system has three main components:
    - Calculated time-based features (days in pipeline, time since last activity)
    - Developed composite metrics for account health scoring
 
-
 ### Data Structure
 The dataset contains:
 - **Customer Demographics**: Company information, industry sectors, geographic locations
@@ -143,9 +142,19 @@ The dataset contains:
 - **Engagement Metrics**: Interaction logs, activity history, marketing campaign responses
 - **Account Information**: Revenue figures, account health indicators, relationship history
 
-**Potential visualizations to include: [NEED TO ADD]**
+**Visualizations:**
 
-* Plots, charts, heatmaps, feature visualizations, sample dataset images
+* Customer Demographics: Accounts by Region  
+![Customer Demographics: Accounts by Region](images/eda_region_distribution.png)
+
+* Sales Pipeline: Distribution of Deal Values  
+![Sales Pipeline: Distribution of Deal Values](images/eda_deal_value_dist.png)
+
+* Account Info: Feature Correlations  
+![Account Info: Feature Correlations](images/eda_correlation_heatmap.png)
+
+* Engagement Metrics: Activity History Over Time  
+![Engagement Metrics: Activity History Over Time](images/eda_engagement_over_time.png)
 
 ---
 
@@ -202,9 +211,22 @@ We built three machine learning models that significantly improved sales intelli
 - Real-time response system provides instant insights
 
 
-**Potential visualizations to include [NEED TO ADD]:**
+**Visualizations:**
 
-* Confusion matrix, precision-recall curve, feature importance plot, prediction distribution, outputs from fairness or explainability tools
+* Distribution of Opportunity Pipeline Stages  
+![Distribution of Opportunity Pipeline Stages](images/eda_pipeline_stages.png)
+
+* Total Revenue by Industry - Won Deals  
+![Total Revenue by Industry - Won Deals](images/eda_revenue_by_industry.png)
+
+* Sales Forecast: Historical vs Predicted  
+![Sales Forecast: Historical vs Predicted](images/results_sales_forecast.png)
+
+* Churn Prediction Model Performance  
+![Churn Prediction Model Performance](images/results_confusion_matrix.png)
+
+* What Drives Churn Risk?  
+![What Drives Churn Risk](images/results_feature_importance.png)
 
 ---
 
