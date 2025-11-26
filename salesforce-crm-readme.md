@@ -387,3 +387,21 @@ We would like to express our gratitude to:
 - The **Break Through Tech Community**, for fostering a collaborative learning environment
 
 Special thanks to our team members for their dedication, collaboration, and hard work in bringing this project to life.
+
+## 🙏 **Acknowledgements**
+
+We want to take a moment to thank the people who genuinely shaped our experience — not just on this project, but in how we showed up as learners and teammates.
+
+- **Ishween Kaur**, Senior Software Engineer at Salesforce — thank you for being the kind of advisor who shows up fully. You met with us every other week, asked the questions we didn’t even know to ask, and somehow managed to challenge us without ever making us feel small. Your line — “tools should fit us, not the other way around” — became a running joke and a grounding principle. And yes, we noticed the 2am resources you sent. Thank you for caring enough to push us and for giving us permission to take up space confidently.
+
+- **Leah Dsouza**, our AI Studio Coach — honestly, thank you for being our sanity check throughout this whole process. Your “don’t do things in sequence when you can do them in parallel” advice saved us from multiple spirals. You helped us zoom out when we got stuck obsessing over details, and you always made time for us, even when we dropped in with last-minute questions. You helped us see the bigger picture when we couldn't see past our own screens.
+
+- **Salesforce** — thank you for trusting a group of students with real CRM data and real problems that teams actually care about. Getting to work on something that wasn’t hypothetical made the learning feel meaningful — and honestly, a lot more exciting.
+
+- **Break Through Tech AI Program** — we’re grateful for a space that didn’t just hand us resources, but actually taught us how to navigate ambiguity, handle messy data, and build something end-to-end. The community and support made a huge difference.
+
+- Our **TAs and Program Staff** — you did so much behind the scenes that we only realized in hindsight. Scheduling chaos, technical hurdles, deadline crunches — you held all of it so we could focus on building.
+
+- Our **fellow BTT teams** — thank you for the feedback sessions, the shared panic during Maker Day, and the moments where we all admitted we were exhausted. It helped to know we weren’t the only ones juggling life, coursework, and a full AI project.
+
+And finally, **to each other** — thank you for showing up even when things were heavy outside the project. We got through late-night debugging, overlapping deadlines, family obligations, burnout moments, and everything in between. We shared fixes, celebrated tiny wins, and figured it out together. This project taught us as much about collaborating with empathy as it did about AI.
