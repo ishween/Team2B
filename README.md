@@ -145,16 +145,16 @@ The dataset contains:
 **Visualizations:**
 
 * Customer Demographics: Accounts by Region  
-![Customer Demographics: Accounts by Region](images/eda_region_distribution.png)
+![Customer Demographics: Accounts by Region](images/data-structure/eda_region_distribution.png)
 
 * Sales Pipeline: Distribution of Deal Values  
-![Sales Pipeline: Distribution of Deal Values](images/eda_deal_value_dist.png)
+![Sales Pipeline: Distribution of Deal Values](images/data-structure/eda_deal_value_dist.png)
 
 * Account Info: Feature Correlations  
-![Account Info: Feature Correlations](images/eda_correlation_heatmap.png)
+![Account Info: Feature Correlations](images/data-structure/eda_correlation_heatmap.png)
 
 * Engagement Metrics: Activity History Over Time  
-![Engagement Metrics: Activity History Over Time](images/eda_engagement_over_time.png)
+![Engagement Metrics: Activity History Over Time](images/data-structure/eda_engagement_over_time.png)
 
 ---
 
@@ -214,19 +214,19 @@ We built three machine learning models that significantly improved sales intelli
 **Visualizations:**
 
 * Distribution of Opportunity Pipeline Stages  
-![Distribution of Opportunity Pipeline Stages](images/eda_pipeline_stages.png)
+![Distribution of Opportunity Pipeline Stages](images/business-insights/eda_pipeline_stages.png)
 
 * Total Revenue by Industry - Won Deals  
-![Total Revenue by Industry - Won Deals](images/eda_revenue_by_industry.png)
+![Total Revenue by Industry - Won Deals](images/business-insights/eda_revenue_by_industry.png)
 
 * Sales Forecast: Historical vs Predicted  
-![Sales Forecast: Historical vs Predicted](images/results_sales_forecast.png)
+![Sales Forecast: Historical vs Predicted](images/business-insights/results_sales_forecast.png)
 
 * Churn Prediction Model Performance  
-![Churn Prediction Model Performance](images/results_confusion_matrix.png)
+![Churn Prediction Model Performance](images/business-insights/results_confusion_matrix.png)
 
 * What Drives Churn Risk?  
-![What Drives Churn Risk](images/results_feature_importance.png)
+![What Drives Churn Risk](images/business-insights/results_feature_importance.png)
 
 ---
 
