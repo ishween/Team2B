@@ -7,7 +7,7 @@
 | Name               | GitHub Handle    | Contribution   |  
 |--------------------|------------------|----------------|  
 | Nissi Otoo         | @nssim516        |  Data Cleaning, Semantic Search Implementation, Account Summary Agent & Email Drafting Agent, GBDT Model Implementation, Project Lead |
-| [Khin Yuupar Myat](https://github.com/hera-myat)   | @hera-myat       | Data Cleaning, LLM Integration, Gradio Interface Development, CatBoost Model Implementation, CRM Dashboard Visualizations, Task Assignment & Team Coordination |  
+| [Khin Yuupar Myat](https://www.linkedin.com/in/heramyat/)  | [@hera-myat](https://github.com/hera-myat)     | Data Cleaning, LLM Integration, Gradio Interface Development, CatBoost Model Implementation, CRM Dashboard Visualizations, Task Assignment & Team Coordination |  
 | Jaren Taznim       | @jren55          | Data Standardization, LLM Integration, Account Summary Agent, Random Forest Model Testing, Gradio Interface |  
 | Zainab Ahmed       | @zainabahmed4    | Lead Scoring Model, GBDT Model Selection & Optimization, Advanced Analytics Engine, CRM Dashboard Visualizations |  
 | Jean-Parnell Louis | @jean-parnellone | Feature Engineering, Account Health Scoring, Multi-Modal Data Indexing, Export & Reporting System, GitHub Documentation |
