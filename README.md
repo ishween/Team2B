@@ -12,7 +12,7 @@
 | Zainab Ahmed       | @zainabahmed4    | Lead Scoring Model, GBDT Model Selection & Optimization, Advanced Analytics Engine, CRM Dashboard Visualizations |  
 | Jean-Parnell Louis | @jean-parnellone | Feature Engineering, Account Health Scoring, Multi-Modal Data Indexing, Export & Reporting System, GitHub Documentation |
 | [Kayla Cheng](https://www.linkedin.com/in/kayla-cheng/)        | [@klhrcn](https://github.com/klhrcn)          | Exploratory Data Analysis, Semantic Search Implementation, LLM Integration, Office Hours Coordination, Advanced Analytics Engine |
-| Fanizza T. Tahir   | @axzhir           | Advanced Analytics Engine Implementation, Sales Forecasting & Churn Risk Models, Weighted Pipeline Analysis             |
+| [Fanizza T. Tahir](https://www.linkedin.com/in/fttahir/)   | [@axzhir](https://github.com/axzhir)           | Advanced Analytics Engine Implementation, Sales Forecasting & Churn Risk Models, Weighted Pipeline Analysis             |
 
 ---
 
