@@ -182,6 +182,25 @@ We built three machine learning models that significantly improved sales intelli
 
 ---
 
+## 📁 **Code Structure**
+
+### Folders and Their Functions
+
+**AI Agents (`notebooks - final/agents/`):**
+- `account_summary_agent.py` - Generates account analysis with health scores and risk assessment
+- `email_drafting_agent.py` - Creates context-aware sales emails with customizable tone and type
+- `insight_generation_agent.py` - Provides pipeline analytics and recommendations
+
+**Machine Learning Pipeline (`notebooks - final/`):**
+- Data preprocessing, feature engineering, and model training notebooks (`1_#.ipynb` through `2.3_#.ipynb`) for lead scoring, opportunity prediction, and account health assessment
+- AI agent development, Gradio interface integration, semantic search implementation, and advanced analytics (`3.1_#.ipynb` through `3.4_#.ipynb`)
+
+**Data Processing (`data_directory/`):**
+- `unclean_data/` - Original Kaggle dataset
+- `clean_data/` - Cleaned and preprocessed CRM datasets (Accounts.csv, Pipeline.csv, Teams.csv, Products.csv)
+
+---
+
 ## 📈 **Results & Key Findings**
 
 | Model | Metric | Score | Impact |
