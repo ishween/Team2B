@@ -10,7 +10,7 @@
 | [Khin Yuupar Myat](https://www.linkedin.com/in/heramyat/)  | [@hera-myat](https://github.com/hera-myat)     | Data Cleaning, LLM Integration, Gradio Interface Development, CatBoost Model Implementation, CRM Dashboard Visualizations, Task Assignment & Team Coordination |  
 | [Jaren Taznim](https://www.linkedin.com/in/jaren-taznim-203b89293/)       | [@jren55](https://github.com/jaren55)          | Data Standardization, LLM Integration, Account Summary Agent, Random Forest Model Testing, Gradio Interface |  
 | Zainab Ahmed       | @zainabahmed4    | Lead Scoring Model, GBDT Model Selection & Optimization, Advanced Analytics Engine, CRM Dashboard Visualizations |  
-| Jean-Parnell Louis | @jean-parnellone | Feature Engineering, Account Health Scoring, Multi-Modal Data Indexing, Export & Reporting System, GitHub Documentation |
+| [Jean-Parnell Louis](https://www.linkedin.com/in/jeanparnelllouis/) | [@jean-parnellone](https://github.com/Jean-ParnellOne) | Feature Engineering, Account Health Scoring, Multi-Modal Data Indexing, Export & Reporting System, GitHub Documentation |
 | [Kayla Cheng](https://www.linkedin.com/in/kayla-cheng/)        | [@klhrcn](https://github.com/klhrcn)          | Exploratory Data Analysis, Semantic Search Implementation, LLM Integration, Office Hours Coordination, Advanced Analytics Engine |
 | [Fanizza T. Tahir](https://www.linkedin.com/in/fttahir/)   | [@axzhir](https://github.com/axzhir)           | Advanced Analytics Engine Implementation, Sales Forecasting & Churn Risk Models, Weighted Pipeline Analysis             |
 
