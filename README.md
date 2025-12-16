@@ -262,15 +262,6 @@ We built three machine learning models that significantly improved sales intelli
 
 ---
 
-## 📝 **License [NEED TO ADD]**
-
-If applicable, indicate how your project can be used by others by specifying and linking to an open source license type (e.g., MIT, Apache 2.0). Make sure your Challenge Advisor approves of the selected license type.
-
-**Example:**  
-This project is licensed under the MIT License.
-
----
-
 ## 📄 **References**
 
 1. Kaggle CRM Sales Opportunities Dataset - https://www.kaggle.com/datasets/innocentmfa/crm-sales-opportunities
